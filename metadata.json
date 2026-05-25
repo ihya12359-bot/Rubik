@@ -1,0 +1,6 @@
+{
+  "name": "Rubik 3x3 Solver 3D",
+  "description": "A modern, highly polished 3D Rubik's Cube Solver with manual color selection, validation, realtime rendering, custom move execution, and step-by-step interactive tutoring.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
